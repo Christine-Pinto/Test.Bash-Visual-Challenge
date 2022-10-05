@@ -1,0 +1,15 @@
+{
+  "name": "test12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Christine Pinto",
+  "license": "MIT",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.27.1",
+    "cypress": "^10.9.0"
+  }
+}
